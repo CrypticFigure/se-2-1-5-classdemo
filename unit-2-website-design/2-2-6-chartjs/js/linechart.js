@@ -1,1 +1,0 @@
-// Code for generating a Chart.js line chart

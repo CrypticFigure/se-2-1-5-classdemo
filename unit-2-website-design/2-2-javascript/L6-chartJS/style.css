@@ -7,11 +7,15 @@
     padding: 10px;
     /* If nesting a chart's container within another container, remove the 
        height and width values.  The outer container will control the dimensions */ 
-    height: 40vh; 
-    width:  80vw;
-    min-height: 400px;
+    /*height: 40vh; */
+    max-width: 100%;
+    min-height: 600px;
     background-color: whitesmoke !important;
     justify-content: center;
     align-items: center;  
+}
+
+.body{
+    background-color: rgb(90, 92, 92);
 }
 
